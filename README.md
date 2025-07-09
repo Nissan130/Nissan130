@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 Computer Science student at **RUET**
+- 🎓 I'm a Computer Science student at **RUET**
 - 🔭 I’m currently working on **Rajshahi District Portal App**
 - 🌱 I have learnt **React Native**, **Django**, and **Machine Learning**, **MERN Stack**, **PHP Laravel**
 - 💬 Ask me about **Full-stack development**, **App development**, and **Python**
