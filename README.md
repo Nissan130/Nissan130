@@ -27,7 +27,7 @@
 ### 🚀 Featured Project
 
 #### 📱 Rajshahi District Portal App  
-A mobile app that helps people in Rajshahi find essential services like hospitals, doctors, schools, and transport info.
+A mobile app that helps people in Rajshahi district find essential services like hospitals, doctors, schools, and transport info.
 
 - React Native + Node.js + MongoDB
 - Cloudinary for image hosting
@@ -39,8 +39,8 @@ A mobile app that helps people in Rajshahi find essential services like hospital
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nissan130&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nissan130&theme=radical" width="49%" />
 </p>
 
 ---
