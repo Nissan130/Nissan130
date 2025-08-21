@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Nissan Ali</h1>
-<h3 align="center">A passionate software developer and future AI/ML engineer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate software developer and future ML & Data Science engineer from Bangladesh 🇧🇩</h3>
 
 ---
 
 - 🎓 I'm a Computer Science student at **RUET**
-- 🔭 I’m currently working on **Rajshahi District Portal App**
-- 🌱 I have learnt **React Native**, **Django**, and **Machine Learning**, **MERN Stack**, **PHP Laravel**
+- 🔭 I’m currently learning **Machine Learning & Data Science**
+- 🌱 I have learnt **React Native** **MERN Stack**, **PHP Laravel**, **SQL**
 - 💬 Ask me about **Full-stack development**, **App development**, and **Python**
 - 📫 Reach me at: [mdnissanali130@gmail.com]
 - 📄 Know more about me: [LinkedIn Profile](https://www.linkedin.com/in/md-nissan-ali130/)
@@ -15,7 +15,7 @@
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
