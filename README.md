@@ -6,7 +6,7 @@
 - 🎓 I'm a Computer Science student at **RUET**
 - 🔭 I’m currently learning **Machine Learning & Data Science**
 - 🌱 I have learnt **React Native** **MERN Stack**, **PHP Laravel**, **SQL**
-- 💬 Ask me about **Full-stack development**, **App development**, and **Python**
+- 💬 Ask me about **Full-stack development**, **Machine Learning**, **Deep Learning** and **NLP**
 - 📫 Reach me at: [mdnissanali130@gmail.com]
 - 📄 Know more about me: [LinkedIn Profile](https://www.linkedin.com/in/md-nissan-ali130/)
 
